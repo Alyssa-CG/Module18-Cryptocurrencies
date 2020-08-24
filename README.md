@@ -21,7 +21,7 @@ Data was analysed by means of unsupervised machine learning. An elbow curve was 
 
 ![Elbow Curve](https://github.com/Alyssa-CG/Module18-Cryptocurrencies/blob/master/Visualizations/elbow_curve.png)
 
-After this, a both a 2D model and a 3D model were created to visualize the clusters, as shown below.
+After this, both a 2D model and a 3D model were created to visualize the clusters, as shown below.
 
 ![2D](https://github.com/Alyssa-CG/Module18-Cryptocurrencies/blob/master/Visualizations/2D_scatter.png)
 
